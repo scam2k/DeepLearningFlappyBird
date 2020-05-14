@@ -1,5 +1,6 @@
 import pygame
 import sys
+"""Test Comment"""
 def load():
     # path of player with different states
     PLAYER_PATH = (
